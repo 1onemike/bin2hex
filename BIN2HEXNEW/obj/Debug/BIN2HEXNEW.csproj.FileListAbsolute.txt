@@ -1,0 +1,12 @@
+C:\Users\Kay\Desktop\GUI\BIN2HEXNEW\BIN2HEXNEW\bin\Debug\BIN2HEXNEW.exe.config
+C:\Users\Kay\Desktop\GUI\BIN2HEXNEW\BIN2HEXNEW\bin\Debug\BIN2HEXNEW.exe
+C:\Users\Kay\Desktop\GUI\BIN2HEXNEW\BIN2HEXNEW\bin\Debug\BIN2HEXNEW.pdb
+C:\Users\Kay\Desktop\GUI\BIN2HEXNEW\BIN2HEXNEW\obj\Debug\BIN2HEXNEW.csprojResolveAssemblyReference.cache
+C:\Users\Kay\Desktop\GUI\BIN2HEXNEW\BIN2HEXNEW\obj\Debug\BIN2HEXNEW.Form1.resources
+C:\Users\Kay\Desktop\GUI\BIN2HEXNEW\BIN2HEXNEW\obj\Debug\BIN2HEXNEW.Properties.Resources.resources
+C:\Users\Kay\Desktop\GUI\BIN2HEXNEW\BIN2HEXNEW\obj\Debug\BIN2HEXNEW.csproj.GenerateResource.Cache
+C:\Users\Kay\Desktop\GUI\BIN2HEXNEW\BIN2HEXNEW\obj\Debug\BIN2HEXNEW.exe
+C:\Users\Kay\Desktop\GUI\BIN2HEXNEW\BIN2HEXNEW\obj\Debug\BIN2HEXNEW.pdb
+C:\Users\Admin\Desktop\GUI\BIN2HEXNEW\BIN2HEXNEW\bin\Debug\BIN2HEXNEW.exe.config
+C:\Users\Admin\Desktop\GUI\BIN2HEXNEW\BIN2HEXNEW\obj\Debug\BIN2HEXNEW.exe
+C:\Users\Admin\Desktop\GUI\BIN2HEXNEW\BIN2HEXNEW\obj\Debug\BIN2HEXNEW.pdb
